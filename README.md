@@ -4,6 +4,7 @@
      Sequential and parallel implementation of depth-first search algorithm using OpenMP.
     <br />
 </p>
+
 ## Details
 
 The implemented code finds the path in DFS given a source node and a destination node, for this it reads a graph from the graph folder, where there are 3 examples with different sizes.
